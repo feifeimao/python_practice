@@ -2,6 +2,8 @@
 #-*- coding:utf-8 -*-
 
 def bubble_sort(list):
+    '''it's a algorithm
+       '''
     len_list = len(list)
     if len_list<2:
         return list
